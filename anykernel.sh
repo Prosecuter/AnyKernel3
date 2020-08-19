@@ -4,7 +4,9 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Unitrix Kernel by Starlight @star2834 TG
+kernel.string=StormBreaker Kernel
+maintainer.string1=Starlight TG:@star2834
+maintainer.string2=Saalim Quadri, Team StormBreaker Head
 do.devicecheck=1
 do.modules=0
 do.systemless=1
