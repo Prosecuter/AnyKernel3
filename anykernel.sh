@@ -4,15 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=StormBreaker Kernel
-maintainer.string1=Starlight TG:@star2834
-maintainer.string2=Saalim Quadri, Team StormBreaker Head
+kernel.string=Strix Kernel
+maintainer.string1=Abhinav Gupta TG:@abhinavgupta
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vince
+device.name1=tissot
 supported.versions=
 supported.patchlevels=
 '; } # end properties
